@@ -1,0 +1,12 @@
+{
+    "name": "ehsan/telme",
+    "authors": [
+        {
+            "name": "Ehsan",
+            "email": "ehsanbagban@gmail.com"
+        }
+    ],
+    "require": {
+        "danog/madelineproto": "^5.1"
+    }
+}
